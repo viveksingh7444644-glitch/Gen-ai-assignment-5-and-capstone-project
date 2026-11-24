@@ -1,0 +1,5 @@
+# Python 3.10+. For a CUDA build of PyTorch see README.md.
+torch>=2.4,<3
+transformers>=4.51,<5
+streamlit>=1.40,<2
+pandas>=2.2,<3
